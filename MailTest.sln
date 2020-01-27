@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsTest", "SmsTest\SmsTest.csproj", "{8B643174-EA70-40F3-BDD8-7EEB8AE0FDFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmsTest", "SmsTest\SmsTest.csproj", "{8B643174-EA70-40F3-BDD8-7EEB8AE0FDFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email", "Email\Email.csproj", "{E984FD82-2F6C-48DD-8F24-41940909AA98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email", "Email\Email.csproj", "{E984FD82-2F6C-48DD-8F24-41940909AA98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A16524E6-9C3D-4CF2-9E25-75D6E637937F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
